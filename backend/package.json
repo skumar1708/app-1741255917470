@@ -1,0 +1,1 @@
+{ "name": "tic-tac-toe-api", "version": "1.0.0", "description": "API for Tic-Tac-Toe game", "main": "server.js", "scripts": { "start": "node server.js" }, "dependencies": { "express": "^4.17.1", "mongoose": "^5.12.1", "dotenv": "^8.2.0" }, "author": "", "license": "ISC" }
